@@ -94,6 +94,10 @@
   </p>
 </div>
 
+<div align="center>
+  ![snake gif](https://github.com/SamHambunan/SamHambunan/tree/output/github-snake-dark.svg)
+  </div>
+
 
 
     
