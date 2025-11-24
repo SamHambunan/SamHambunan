@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Sam+Hambunan+:D)](https://git.io/typing-svg)
 <h3 align="center">A passionate full-stack developer at Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samhambunan&label=Profile%20views&color=0e75b6&style=flat" alt="samhambunan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=samhambunan&label=Profile%20views&color=0e75b6&style=flat" alt="samhambunan" /> </p>
 
 
 <p align="left">
@@ -94,9 +94,7 @@
   </p>
 </div>
 
-<div align="center>
-  ![snake gif](https://github.com/SamHambunan/SamHambunan/tree/output/github-snake-dark.svg)
-  </div>
+
 
 
 
