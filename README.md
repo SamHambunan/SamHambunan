@@ -96,6 +96,8 @@
 
 
 
+  ![snake gif](https://github.com/samhambunan/samhambunan/blob/output/github-snake-dark.svg)
+  </div>
 
 
     
