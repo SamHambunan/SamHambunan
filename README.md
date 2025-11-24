@@ -3,9 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samhambunan&label=Profile%20views&color=0e75b6&style=flat" alt="samhambunan" /> </p>
 
-
-<p align="left">
-</p>
+  ![snake gif](https://github.com/samhambunan/samhambunan/blob/output/github-snake-dark.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 <div class="tech-category">
@@ -96,7 +94,7 @@
 
 
 
-  ![snake gif](https://github.com/samhambunan/samhambunan/blob/output/github-snake-dark.svg)
+
   </div>
 
 
