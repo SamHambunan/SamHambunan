@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Sam+Hambunan+:D)](https://git.io/typing-svg)
-<h3 align="center">A passionate full-stack developer at Philippines</h3>
+<h3 align="center">A passionate student full-stack developer at Philippines (In the Future).</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samhambunan&label=Profile%20views&color=0e75b6&style=flat" alt="samhambunan" /> </p>
 
