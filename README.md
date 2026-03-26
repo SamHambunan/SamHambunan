@@ -7,7 +7,7 @@
 
 # 👨‍💻 My Portfolio
 
-> *Information Technology Student · Full-Stack Web Developer · AI/ML Integrator · Aspiring Software Architect*
+> *Information Technology Student · Full-Stack Web Developer · Aspiring AI/ML Integrator · Aspiring Software Architect*
 
 ---
 
