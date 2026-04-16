@@ -15,7 +15,7 @@
 
 I'm a **Information Technology student at Cebu Technological University (CTU)** in Cebu, Philippines, driven by a strong passion for building robust, scalable, and well-architected web applications. My development journey spans across backend engineering with Laravel, modern frontend development with React and Tailwind CSS, authentication systems, performance optimization with Redis and caching, AI/ML integration via FastAPI, and an ever-growing interest in **system design and software architecture**.
 
-I approach every project with a mindset of clean code, thoughtful design, and continuous learning — always pushing toward deeper understanding rather than surface-level familiarity.
+I approach every project with a mindset of clean code, thoughtful design, and continuous learning always pushing toward deeper understanding rather than surface-level familiarity.
 
 ---
 
@@ -35,17 +35,17 @@ I approach every project with a mindset of clean code, thoughtful design, and co
 ### 🔥 Currently Mastering
 
 #### Laravel *(PHP Backend Framework)*
-Laravel is my primary backend framework and the core of my development practice. I'm actively advancing across its ecosystem — not just building CRUD apps, but working toward production-grade architecture.
+Laravel is my primary backend framework and the core of my development practice. I'm actively advancing across its ecosystem not just building CRUD apps, but working toward production-grade architecture.
 
 **Areas of Active Development:**
 - Routing, middleware, and request lifecycle
-- Eloquent ORM — relationships, scopes, eager loading, query optimization
+- Eloquent ORM relationships, scopes, eager loading, query optimization
 - RESTful API development with resource controllers and API resources
 - Job queues, background processing, and event broadcasting
 - Service container and dependency injection
 - Form requests, validation pipelines, and custom rules
 - Blade templating engine
-- Laravel Artisan CLI — custom commands, scheduling
+- Laravel Artisan CLI custom commands, scheduling
 - Database migrations, seeders, and factories
 - Policy & Gate-based authorization
 
@@ -53,7 +53,7 @@ Laravel is my primary backend framework and the core of my development practice.
 
 ### 🔐 Authentication *(Adept)*
 
-I have solid, hands-on proficiency in Laravel's authentication ecosystem — both for traditional web apps and API-based systems.
+I have solid, hands-on proficiency in Laravel's authentication ecosystem both for traditional web apps and API-based systems.
 
 #### Laravel Breeze
 - Lightweight scaffolding for session-based authentication
@@ -70,13 +70,13 @@ I have solid, hands-on proficiency in Laravel's authentication ecosystem — bot
 - Token abilities and scoped permissions
 - Understands the difference between Sanctum and Passport and when to use each
 
-> **Authentication Confidence Level:** Adept — capable of implementing secure, production-ready auth flows independently for both web and API contexts.
+> **Authentication Confidence Level:** Adept capable of implementing secure, production-ready auth flows independently for both web and API contexts.
 
 ---
 
 ### 🌐 Frontend Development
 
-#### React *(Web Only — Not React Native)*
+#### React *(Web Only Not React Native)*
 - Functional components and React Hooks (`useState`, `useEffect`, `useContext`, `useReducer`, `useMemo`, `useCallback`)
 - Component composition and reusability patterns
 - Client-side routing with React Router
@@ -187,7 +187,7 @@ This is a key area of intellectual investment. I'm moving beyond "how to build f
 - Separation of concerns in full-stack architecture
 - RESTful API design best practices
 
-> **Learning Path:** Studying through system design literature, real-world architecture teardowns, and applying concepts in personal projects. Goal is to architect systems thoughtfully — not just make them work, but make them *right*.
+> **Learning Path:** Studying through system design literature, real-world architecture teardowns, and applying concepts in personal projects. Goal is to architect systems thoughtfully not just make them work, but make them *right*.
 
 ---
 
@@ -212,10 +212,10 @@ This is a key area of intellectual investment. I'm moving beyond "how to build f
 
 | Badge | Meaning |
 |-------|---------|
-| 🔵 Adept | Strong, independent proficiency — can implement in production confidently |
-| 🟡 Mastering | Deep, active learning — going beyond basics into advanced internals |
-| 🟢 Capable | Comfortable and productive — can build real features without assistance |
-| 🟠 Practicing / Learning | Actively studying and building — growing rapidly |
+| 🔵 Adept | Strong, independent proficiency can implement in production confidently |
+| 🟡 Mastering | Deep, active learning going beyond basics into advanced internals |
+| 🟢 Capable | Comfortable and productive can build real features without assistance |
+| 🟠 Practicing / Learning | Actively studying and building growing rapidly |
 | ❌ Not in Stack | Not currently available or pursued |
 
 ---
@@ -226,16 +226,16 @@ This is a key area of intellectual investment. I'm moving beyond "how to build f
 Building end-to-end web applications using **Laravel** as the API backend and **React + Tailwind CSS** as the frontend. Emphasis on clean separation of concerns, RESTful design, and secure authentication using **Breeze** and **Sanctum**.
 
 ### 2. 🔐 Secure Authentication Systems
-Designing and implementing authentication flows — from traditional session-based auth (Breeze) to token-based SPA/API authentication (Sanctum) — with attention to security best practices like token scoping, guard configuration, and CSRF protection.
+Designing and implementing authentication flows from traditional session-based auth (Breeze) to token-based SPA/API authentication (Sanctum) with attention to security best practices like token scoping, guard configuration, and CSRF protection.
 
 ### 3. ⚡ Performance Engineering
 Applying **Redis** and strategic **caching** to reduce server load, improve response times, and build applications that perform well under pressure. Goal: think about performance *during* design, not as an afterthought.
 
 ### 4. 🤖 AI / ML-Powered Applications
-Using **FastAPI** to bridge the gap between machine learning models and production web apps. Interested in building intelligent features — recommendations, predictions, NLP — powered by Python ML pipelines exposed as clean microservice APIs.
+Using **FastAPI** to bridge the gap between machine learning models and production web apps. Interested in building intelligent features recommendations, predictions, NLP powered by Python ML pipelines exposed as clean microservice APIs.
 
 ### 5. 📐 Software Architecture & System Design
-Developing the ability to **design systems before writing code** — thinking in terms of components, data flow, failure modes, and scalability. Studying how real-world systems are architected and applying those principles to personal and academic projects.
+Developing the ability to **design systems before writing code** thinking in terms of components, data flow, failure modes, and scalability. Studying how real-world systems are architected and applying those principles to personal and academic projects.
 
 ---
 
@@ -243,16 +243,16 @@ Developing the ability to **design systems before writing code** — thinking in
 
 ```
 Current Focus
-├── Laravel (deepening — queues, events, service patterns)
+├── Laravel (deepening queues, events, service patterns)
 ├── Breeze & Sanctum (solidifying adept-level knowledge)
 ├── Redis (expanding use cases beyond caching)
 ├── FastAPI (building real AI/ML integration pipelines)
-├── System Design (daily study — patterns, scalability, trade-offs)
+├── System Design (daily study patterns, scalability, trade-offs)
 │
 Next Up
 ├── Docker & Containerization (for dev/prod parity)
 ├── PostgreSQL advanced features (indexing, full-text search)
 ├── CI/CD pipelines (GitHub Actions)
-└── Message queues (deeper dive — Laravel Horizon, Redis Queues)
+└── Message queues (deeper dive Laravel Horizon, Redis Queues)
 ```
     
