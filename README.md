@@ -13,24 +13,26 @@ My core development stack is **Laravel (PHP)** for backend engineering and **Rea
 
 ## Core Stack
 
-* **Backend:** Laravel, PHP, REST APIs, Authentication
+* **Backend:** Laravel, PHP, REST APIs
 * **Frontend:** React, Vite, Tailwind CSS
-* **Database:** MySQL, PostgreSQL
-* **Cloud & DevOps:** Docker, CI/CD, Linux, GitHub Actions, Cloud Infrastructure
-* **Infrastructure:** Redis, Caching, Queues
-* **Architecture:** System Design, Scalable APIs, Microservices
-* **AI Integration:** FastAPI, Python
+* **DevOps:** Docker, CI/CD, Linux
+* **Cloud:** Cloud Infrastructure, Networking, IAM
+* **Infrastructure:** Kubernetes, Terraform
+* **Systems:** Redis, Queues, Distributed Systems
+* **Architecture:** System Design, Scalability, Reliability
 
 ## Current Focus
 
-* Building production-ready Laravel APIs
-* Developing React-based applications
-* Learning and applying **Cloud & DevOps practices**
-* Containerization with **Docker**
-* Building **CI/CD pipelines**
-* Improving system scalability and reliability
-* Learning cloud architecture and infrastructure
-* Designing maintainable and scalable backend systems
+* Kubernetes & container orchestration
+* Cloud infrastructure
+* Infrastructure as Code with Terraform
+* Advanced CI/CD
+* Observability & monitoring
+* Security & reliability
+* Distributed systems
+* Platform engineering
+
+
 
 
 
