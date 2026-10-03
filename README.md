@@ -11,7 +11,7 @@ I'm an **IT student and Backend, Cloud & DevOps Engineer** focused on building s
 
 My core development stack is **Laravel (PHP)** for backend engineering and **React** for frontend development. I'm also focused on **cloud infrastructure, DevOps, system design, APIs, databases, caching, and automation**.
 
-## 🛠️ Core Stack
+## Core Stack
 
 * **Backend:** Laravel, PHP, REST APIs, Authentication
 * **Frontend:** React, Vite, Tailwind CSS
